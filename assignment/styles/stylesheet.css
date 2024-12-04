@@ -2,5 +2,7 @@ header {
   background-color: dark;
   color: light;
   text-align: center;
-  
+}
+main {
+  background-color: lightgrey;
 }
