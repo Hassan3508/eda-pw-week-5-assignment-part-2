@@ -2,11 +2,7 @@ body {
   background-image: url('../Image/record.png');
   background-repeat: repeat;
   background-size: contain;
-  background-position: auto;
   margin: 0;
-  padding: 1px;
-
-
 
 }
 
@@ -15,11 +11,13 @@ header {
   background-color: dark;
   color: light;
   text-align: center;
+  margin-bottom: 20px;
+  margin: 20px;
 
 }
 main {
   background-color: lightgrey;
   padding: 1em;
   margin: 0;
-  text-align: center;
+
 }
